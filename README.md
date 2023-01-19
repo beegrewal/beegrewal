@@ -80,7 +80,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bsgrewal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -100,7 +100,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=bsgrewal&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=beegrewal&&style=flat-square" align="center" />
 </div>  
   
 
