@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-### Hi there 👋
  <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -9,7 +7,7 @@
 ### <div align="center">I'm B S GREWAL, a Frontend Developer 👨‍💻 working remotely since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/bsgrewal)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/beegrewal)  
   
 
 - 🌱 I’m currently learning Backend Languages  
