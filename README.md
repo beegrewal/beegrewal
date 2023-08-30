@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm B S GREWAL, a Frontend Developer 👨‍💻 working remotely since 2022🚀</div>  
+### <div align="center">I'm B S GREWAL, a Full Stack Developer 👨‍💻 working remotely since 2022🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/beegrewal)  
