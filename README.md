@@ -4,16 +4,16 @@
 </div>  
   
 
-### <div align="center">I'm B S GREWAL, a Full Stack Developer 👨‍💻 working remotely since 2022🚀</div>  
+### <div align="center">I'm B S GREWAL, a DATA SCIENCE & AI Intern 👨‍💻 working remotely since 2023🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/beegrewal)  
   
 
-- 🌱 I’m currently learning Backend Languages  
+- 🌱 I’m currently learning AI 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Python and related technologies  
   
 
 - ⚡ Fun fact: I use Copy Paste   
