@@ -1,6 +1,6 @@
 ### Hi there 👋
  <div align="center">
-<img src="[https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)" align="center" style="width: 100%" />
+<img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" align="center" style="width: 100%" />
 </div>  
   
 
