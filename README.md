@@ -7,7 +7,7 @@
 ### <div align="center">I'm B S GREWAL, a DATA SCIENCE & AI Intern 👨‍💻 working remotely since 2023🚀</div>  
   
 
-- 🔭 I’m currently working on [FAB Attendance System]([https://github.com/beegrewal](https://github.com/beegrewal/Facial-Biometric-attendance-system))  
+- 🔭 I’m currently working on [FAB Attendance System](https://github.com/beegrewal/Facial-Biometric-attendance-system) 
   
 
 - 🌱 I’m currently learning AI 
