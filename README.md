@@ -1,6 +1,6 @@
 ### Hi there 👋
  <div align="center">
-<img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" align="center" style="width: 100%" />
+<img src="[https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif](https://camo.githubusercontent.com/dd60fcfed00e8ba14581eac4713eb809f6fd6e4de2053c8c2752b2dc0224c723/68747470733a2f2f69302e77702e636f6d2f7777772e736369656e63656e6577732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f3034303832335f636861746770745f666561742e676966)" align="center" style="width: 100%" />
 </div>  
   
 
