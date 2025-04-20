@@ -41,7 +41,7 @@ I'm currently working at ReSol, where I focus on implementing machine learning a
 ➡️ **Following:** 23 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beegrewal&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats style="width: 100%")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beegrewal&layout=compact&theme=dark" )](https://github.com/beegrewal/github-readme-stats )
 
 ## Recent Activity
 
