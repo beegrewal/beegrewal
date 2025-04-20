@@ -55,8 +55,8 @@ I work at **ReSol**, where I focus on **AI-driven automation and analytics**—b
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beegrewal&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beegrewal&layout=compact&theme=dark)
+
 
 ---
 
