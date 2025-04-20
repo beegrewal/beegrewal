@@ -1,89 +1,72 @@
-### Hi there 👋
- <div align="center">
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" align="center" style="width: 100%" />
-</div>  
-  
+### Hey there, I’m B S Grewal! 👋  
+<div align="center">
+  <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="100%"/>
+</div>
 
-### <div align="center">I'm B S GREWAL, a DATA SCIENCE & AI Intern 👨‍💻 working remotely since 2023🚀</div>  
-  
+---
 
-- 🔭 I’m currently working on [FAB Attendance System](https://github.com/beegrewal/Facial-Biometric-attendance-system) 
-  
-
-- 🌱 I’m currently learning AI 
-  
-
-- ❓ Ask me about anything related to Python and related technologies  
-  
-
-- ⚡ Fun fact: I use Copy Paste   
-  
-
-<br/>  
-
-## Hi there! 👋
-
-I'm B S Grewal, a passionate Machine Learning and AI enthusiast based in Ludhiana, Punjab. I love exploring the world of data and building innovative solutions that make a difference.
-
-## About Me
-
-I'm currently working at ReSol, where I focus on implementing machine learning and AI technologies. With a strong background in data science, I enjoy tackling complex problems and transforming data into actionable insights.
-
-## Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=flask,html,css,git,github,aws,azure,postgres,mongodb,pytorch,tensorflow,fastapi&perline=8)](https://skillicons.dev)
-
-
-
-## GitHub Stats
-📊 **Public Repositories:** 16 
-👥 **Followers:** 24 
-➡️ **Following:** 23 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&theme=radical) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beegrewal&layout=compact&theme=dark&https://github.com/beegrewal/github-readme-stats")
-
-## Recent Activity
-
-Here are some of my recent activities:
-
-- Created repository [data-scrapping](https://github.com/beegrewal/data-scrapping)
-- Pushed updates to the [EASE_US-recovery](https://github.com/beegrewal/EASE_US-recovery) project
-- Opened issues on [Trend-analysis-for-punjab](https://github.com/beegrewal/Trend-analysis-for-punjab)
-- Contributed to the [MR_Singh](https://github.com/beegrewal/MR_Singh) repository
-- Starred [IBM](https://github.com/beegrewal/IBM)
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts published. Stay tuned for updates!
-
-
-
-### BIO  
-<!-- BLOG-POST-LIST:START -->  
-I may be late, but remember: slow and steady wins the race.
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
+### <div align="center">🚀 Data Scientist | AI Explorer | Tech Optimist</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=beegrewal&&style=flat-square" align="center" />
-</div>  
-  
+  👨‍💻 Passionately building intelligent systems to solve real-world problems  
+  🌍 Working remotely with ReSol | Based in Ludhiana, Punjab, India  
+</div>
 
-<br/>  
+---
+
+## 💡 What I’m Up To
+
+- 🔧 **Currently Building:** [Facial Biometric Attendance System](https://github.com/beegrewal/Facial-Biometric-attendance-system) – Seamless face-based check-ins powered by AI  
+- 📚 **Learning:** Deepening my skills in Artificial Intelligence, Computer Vision & NLP  
+- 💬 **Ask Me About:** Python | Machine Learning | FastAPI | Cloud Deployment | Data Engineering  
+
+---
+
+## 🧠 A Bit About Me
+
+I'm B S Grewal, a curious mind fueled by data and innovation. With a passion for **AI and machine learning**, I thrive on building solutions that not only work—but wow. Whether it's automating workflows or deploying robust models, I'm always chasing the next breakthrough moment.
+
+I work at **ReSol**, where I focus on **AI-driven automation and analytics**—bridging data with decision-making.
+
+---
+
+## 🛠️ Tools & Technologies I Work With
+
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,pytorch,tensorflow,html,css,git,github,aws,azure,postgres,mongodb&perline=8)](https://skillicons.dev)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beegrewal&layout=compact&theme=dark)
+
+---
+
+## 🔍 Recent GitHub Activity
+
+- 📁 Created repo [data-scrapping](https://github.com/beegrewal/data-scrapping)
+- 📦 Updated [EASE_US-recovery](https://github.com/beegrewal/EASE_US-recovery)
+- 🐛 Opened issues on [Trend-analysis-for-punjab](https://github.com/beegrewal/Trend-analysis-for-punjab)
+- ✨ Contributed to [MR_Singh](https://github.com/beegrewal/MR_Singh)
+- ⭐ Starred [IBM](https://github.com/beegrewal/IBM)
+
+---
+
+## 📝 Coming Soon: My Blog
+
+Stay tuned for technical write-ups, AI experiments, and personal learnings from the front lines of data science.
+
+> _“I may be late, but remember: slow and steady wins the race.”_
+
+---
+
+## 🤝 Let’s Connect!
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/bantus1973" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
+  <a href="https://www.buymeacoffee.com/bantus1973" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buymeacoffee" />
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=beegrewal&style=flat-square" />
+</div>
