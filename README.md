@@ -50,7 +50,7 @@ I work at **ReSol**, where I focus on **AI-driven automation and analytics**—b
 <br><br>  
 
 
-[![My Skills](https://skillicons.dev/icons?i=flask,html,css,git,github,aws,mongodb,tensorflow,anaconda,bootstrap,codepen,django,ai,js,jquery,kali,linux,laravel,opencv,nodejs,sklearn,sublime,py,pkl,npm&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,html,css,git,github,aws,mongodb,tensorflow,anaconda,bootstrap,codepen,django,ai,js,jquery,kali,linux,laravel,opencv,nodejs,sklearn,sublime,py,npm&perline=12)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
