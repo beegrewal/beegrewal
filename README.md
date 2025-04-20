@@ -32,9 +32,9 @@ I work at **ReSol**, where I focus on **AI-driven automation and analytics**—b
 
 ## 🛠️ Tools & Technologies I Work With
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,pytorch,tensorflow,html,css,git,github,aws,azure,postgres,mongodb&perline=8)](https://skillicons.dev)
+## Skills & Technologies
 
----
+[![My Skills](https://skillicons.dev/icons?i=flask,html,css,git,github,aws,mongodb,tensorflow,anaconda,bootstrap,codepen,django,ai,js,jquery,kali,linux,laravel,opencv,nodejs,sklearn,sublime,py,pkl,npm&perline=8)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
