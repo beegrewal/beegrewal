@@ -33,12 +33,6 @@ I'm currently working at ReSol, where I focus on implementing machine learning a
 
 [![My Skills](https://skillicons.dev/icons?i=flask,html,css,git,github,aws,azure,postgres,mongodb,pytorch,tensorflow,fastapi&perline=8)](https://skillicons.dev)
 
-## Top Projects
-
-
-
-
-
 
 
 ## GitHub Stats
@@ -46,7 +40,7 @@ I'm currently working at ReSol, where I focus on implementing machine learning a
 👥 **Followers:** 24 
 ➡️ **Following:** 23 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beegrewal&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
