@@ -63,7 +63,7 @@ Here are some of my recent activities:
 
 Currently, I don't have any blog posts published. Stay tuned for updates!
 
-## Connect with Me
+
 
 ### BIO  
 <!-- BLOG-POST-LIST:START -->  
