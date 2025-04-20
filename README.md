@@ -21,72 +21,49 @@
 
 <br/>  
 
+## Hi there! 👋
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+I'm B S Grewal, a passionate Machine Learning and AI enthusiast based in Ludhiana, Punjab. I love exploring the world of data and building innovative solutions that make a difference.
 
+## About Me
 
+I'm currently working at ReSol, where I focus on implementing machine learning and AI technologies. With a strong background in data science, I enjoy tackling complex problems and transforming data into actionable insights.
 
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-</div>
+## Skills & Technologies
 
-</td><td valign="top" width="33%">
+[![My Skills](https://skillicons.dev/icons?i=flask,html,css,git,github,aws,azure,postgres,mongodb,pytorch,tensorflow,fastapi&perline=8)](https://skillicons.dev)
+
+## Top Projects
 
 
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
 
 
 
-### DevOps  
-<div align="center">  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
 
-</td></tr></table>  
+## GitHub Stats
+📊 **Public Repositories:** 16 
+👥 **Followers:** 24 
+➡️ **Following:** 23 
 
-<br/>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beegrewal&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Recent Activity
 
-## Connect with me  
-<div align="center">
+Here are some of my recent activities:
 
-<a href="www.linkedin.com/in/bsgrewal1973" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+- Created repository [data-scrapping](https://github.com/beegrewal/data-scrapping)
+- Pushed updates to the [EASE_US-recovery](https://github.com/beegrewal/EASE_US-recovery) project
+- Opened issues on [Trend-analysis-for-punjab](https://github.com/beegrewal/Trend-analysis-for-punjab)
+- Contributed to the [MR_Singh](https://github.com/beegrewal/MR_Singh) repository
+- Starred [IBM](https://github.com/beegrewal/IBM)
 
-<a href="https://www.instagram.com/_bsgrewal/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## Latest Blog Posts
 
-<br/>  
+Currently, I don't have any blog posts published. Stay tuned for updates!
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-
+## Connect with Me
 
 ### BIO  
 <!-- BLOG-POST-LIST:START -->  
