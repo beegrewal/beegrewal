@@ -44,11 +44,11 @@ I work at **ReSol**, where I focus on **AI-driven automation and analytics**—b
 <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50">
 
 </div>
-<br><br>  
+<br><be>  
 
-
+<div align="center">
 [![My Skills](https://skillicons.dev/icons?i=flask,html,css,git,github,aws,mongodb,tensorflow,anaconda,bootstrap,codepen,django,ai,js,jquery,kali,linux,laravel,opencv,nodejs,sklearn,sublime,py,npm&perline=12)](https://skillicons.dev)
-
+</div>
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beegrewal&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beegrewal&layout=compact&theme=dark)
