@@ -61,7 +61,7 @@ Currently, I don't have any blog posts published. Stay tuned for updates!
 
 ### BIO  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+I may be late, but remember: slow and steady wins the race.
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
